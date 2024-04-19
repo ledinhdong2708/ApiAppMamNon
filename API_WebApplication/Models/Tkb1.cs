@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace API_WebApplication.Models;
+
+public partial class TKB1
+{
+    public int Id { get; set; }
+
+    public string? Thu { get; set; }
+
+    public string? Content { get; set; }
+
+    public DateTime? CreateDate { get; set; }
+
+    public DateTime? UpdateDate { get; set; }
+
+    public bool Status { get; set; }
+
+    public int otkbId { get; set; }
+
+    public int UserId { get; set; }
+
+    public int StudentId { get; set; }
+
+    public int ParentId { get; set; }
+
+    public int Branch { get; set; }
+
+    public virtual OTKB otkb { get; set; }
+}

@@ -1,0 +1,151 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "API_Application_V1Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "API_WebApplication",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[AppID]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BinhLuan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChiTietHocPhi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChiTietHocPhiTheoMonth]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChiTietXinNghiPhep]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ClassModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DanThuocModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DiemDanhModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DinhDuongModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HocPhi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HocPhiChiTietModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[HocPhiModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KhoaHocModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MaterBieuDo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MaterHocPhi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NhatKy]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OTKB]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RefreshToken]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SoBeNgoan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Student]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TableImage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TableLike]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ThoiKhoaBieuModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TinTucModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TKB1]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[XinNghiPhepModel]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "edge.API_Application_V1.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": true
+}

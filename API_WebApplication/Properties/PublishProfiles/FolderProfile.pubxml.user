@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-28T09:30:06.1352707Z;True|2024-01-22T14:26:44.0693418+07:00;True|2023-12-19T23:50:58.2201113+07:00;True|2023-12-17T18:32:26.6103676+07:00;True|2023-12-17T18:16:47.5548069+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

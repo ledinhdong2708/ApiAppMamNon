@@ -1,0 +1,280 @@
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\appsettings.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\efpt.config.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.exe
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.deps.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.runtimeconfig.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.pdb
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\AutoMapper.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Azure.Core.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Humanizer.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.CodeDom.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.AssemblyReference.cache
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.AssemblyInfoInputs.cache
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.AssemblyInfo.cs
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.CoreCompileInputs.cache
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.API_WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.API_WebApplication.props
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_WebApplication.props
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_WebApplication.props
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\scopedcss\bundle\API_WebApplication.styles.css
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.CopyComplete
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\refint\API_WebApplication.dll
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.pdb
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.genruntimeconfig.cache
+D:\DATAS\Trường mầm non Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\ref\API_WebApplication.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\appsettings.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\efpt.config.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.exe
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.deps.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.runtimeconfig.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.pdb
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\AutoMapper.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Azure.Core.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Humanizer.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Web.Cors.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.CodeDom.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.AssemblyReference.cache
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.AssemblyInfoInputs.cache
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.AssemblyInfo.cs
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.CoreCompileInputs.cache
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.API_WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.API_WebApplication.props
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_WebApplication.props
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_WebApplication.props
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\scopedcss\bundle\API_WebApplication.styles.css
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.CopyComplete
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\refint\API_WebApplication.dll
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.pdb
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.genruntimeconfig.cache
+D:\DATAS\Schools_Morris\API\API_WebApplication\API_WebApplication\obj\Debug\net7.0\ref\API_WebApplication.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\appsettings.Development.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\appsettings.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\efpt.config.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.exe
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.deps.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.runtimeconfig.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\API_WebApplication.pdb
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\AutoMapper.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Azure.Core.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Azure.Identity.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Humanizer.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Web.Cors.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.CodeDom.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.AssemblyReference.cache
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.AssemblyInfoInputs.cache
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.AssemblyInfo.cs
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.csproj.CoreCompileInputs.cache
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.build.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.development.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.API_WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.build.API_WebApplication.props
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API_WebApplication.props
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API_WebApplication.props
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\scopedcss\bundle\API_WebApplication.styles.css
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebA.41143ADB.Up2Date
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\refint\API_WebApplication.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.pdb
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\API_WebApplication.genruntimeconfig.cache
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\obj\Debug\net7.0\ref\API_WebApplication.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\MailKit.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\MimeKit.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\ionic\App_mam_non\API_WebApplication\API_WebApplication\bin\Debug\net7.0\Twilio.dll

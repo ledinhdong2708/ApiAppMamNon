@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\192.168.1.108\Public_WebAPI</_PublishTargetUrl>
+    <History>True|2024-01-19T03:25:15.1834452Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
