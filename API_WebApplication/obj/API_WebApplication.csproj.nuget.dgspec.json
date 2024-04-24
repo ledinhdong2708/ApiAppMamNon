@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ionic\\App_mam_non\\API_WebApplication\\API_WebApplication\\API_WebApplication.csproj": {}
+    "/Users/dongsue/Downloads/API_WebApplication/API_WebApplication/API_WebApplication.csproj": {}
   },
   "projects": {
-    "D:\\ionic\\App_mam_non\\API_WebApplication\\API_WebApplication\\API_WebApplication.csproj": {
+    "/Users/dongsue/Downloads/API_WebApplication/API_WebApplication/API_WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ionic\\App_mam_non\\API_WebApplication\\API_WebApplication\\API_WebApplication.csproj",
+        "projectUniqueName": "/Users/dongsue/Downloads/API_WebApplication/API_WebApplication/API_WebApplication.csproj",
         "projectName": "API_WebApplication",
-        "projectPath": "D:\\ionic\\App_mam_non\\API_WebApplication\\API_WebApplication\\API_WebApplication.csproj",
-        "packagesPath": "C:\\Users\\tamhu\\.nuget\\packages\\",
-        "outputPath": "D:\\ionic\\App_mam_non\\API_WebApplication\\API_WebApplication\\obj\\",
+        "projectPath": "/Users/dongsue/Downloads/API_WebApplication/API_WebApplication/API_WebApplication.csproj",
+        "packagesPath": "/Users/dongsue/.nuget/packages/",
+        "outputPath": "/Users/dongsue/Downloads/API_WebApplication/API_WebApplication/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tamhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dongsue/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -116,24 +110,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.17, 7.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -142,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
         }
       }
     }
